@@ -1,7 +1,7 @@
 // application shows you the basic procedure for sending messages.
 package examples;
 
-
+//Importing different packages
 
 importorg.smslib.AGateway;
 
@@ -113,7 +113,7 @@ e.printStackTrace();
 
 
 
-57
+
 
 
 
